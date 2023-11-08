@@ -28,12 +28,12 @@ Key Features and Objectives:
 7. User Profiles:
    - Allow users to customize their profiles with personal information and avatars.
    - Display user activity history, including posts, comments, and interactions.
-   
+
 # FUTURE PLAN
-<!-- 8. Notifications and Alerts:
+8. Notifications and Alerts:
    - Implement a notification system to inform users about new comments, replies, and other relevant updates.
 
 9. Testing and Quality Assurance:
    - Conduct thorough testing to ensure the platform's functionality, security, and performance.
-   - Apply best practices for code quality, including unit testing and integration testing. -->
+   - Apply best practices for code quality, including unit testing and integration testing.
 
