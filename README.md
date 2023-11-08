@@ -1,5 +1,5 @@
 # Bloging Community
-The objective of this project is to develop a dynamic community blog platform using Django, Python, HTML, and CSS, with a focus on physics-related content. This platform will allow users to register, log in, and contribute community-related articles, discussions, and resources. The project will implement full CRUD functionality, enabling users to Create, Read, Update, and Delete their own posts and comments. Additionally, an admin interface will be implemented to manage user accounts and monitor content for adherence to community guidelines.
+The objective of this project is to develop a dynamic community blog platform using Django, Python, HTML, and CSS, with a focus on community-related content. This platform will allow users to register, log in, and contribute community-related articles, discussions, and resources. The project will implement full CRUD functionality, enabling users to Create, Read, Update, and Delete their own posts and comments. Additionally, an admin interface will be implemented to manage user accounts and monitor content for adherence to community guidelines.
 
 Key Features and Objectives:
 
@@ -36,4 +36,7 @@ Key Features and Objectives:
 9. Testing and Quality Assurance:
    - Conduct thorough testing to ensure the platform's functionality, security, and performance.
    - Apply best practices for code quality, including unit testing and integration testing.
+
+# Trello link
+-https://trello.com/b/X8gdzFV7/commucentric-blog
 
